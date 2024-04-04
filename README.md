@@ -1,4 +1,5 @@
 ---
-layout: home
-title: "Home Page Test"
 ---
+
+# Project Title
+
