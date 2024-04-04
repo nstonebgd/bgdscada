@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Home Page"
+title: "Home Page Test"
 ---
