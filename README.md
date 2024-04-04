@@ -2,4 +2,4 @@
 ---
 
 # Project Title
-[Guides](/Docs/Guides/Cradlepoint Router Setup and Security Guide)
+[Guides](/Docs/Guides/Cradlepoint Router Setup and Security Guide/)
