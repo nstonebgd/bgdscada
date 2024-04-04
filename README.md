@@ -1,4 +1,4 @@
 ---
 ---
 
-# Welcome to the bgdscada dashboard
+# Welcome
