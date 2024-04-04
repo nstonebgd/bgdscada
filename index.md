@@ -1,2 +1,4 @@
-# bgdscada
-# Test
+---
+layout: home
+title: "Home Page"
+---
